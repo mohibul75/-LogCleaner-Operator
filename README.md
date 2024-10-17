@@ -16,7 +16,7 @@ Your team could try to address this manually—someone could regularly log into 
 
 Wouldn't it be great if there was a way to **automate** this process, ensuring your system remains clutter-free without any manual intervention?
 
-### **The Vision: Automatic Log Management**
+### **Automatic Log Management**
 
 The **LogCleaner Operator** was created to solve this problem. It’s a tool designed to **automatically manage and clean up log files** from Kubernetes Pods. With this operator, teams no longer need to worry about their logs growing out of control or manually cleaning them up. The operator will monitor logs in your Kubernetes Pods, automatically cleaning or archiving them based on conditions that you set.
 
